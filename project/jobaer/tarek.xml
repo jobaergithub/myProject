@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<pages>
+  <link>
+    <title>National</title>
+    <url>http://localhost/news_project/category.php?category_id=1</url>
+  </link>
+  <link>
+    <title>International</title>
+    <url>http://localhost/news_project/category.php?category_id=2</url>
+  </link>
+  <link>
+    <title>cricket</title>
+    <url>http://localhost/news_project/category.php?category_id=3</url>
+  </link>
+  <link>
+    <title>International</title>
+    <url>http://localhost/news_project/category.php?category_id=7</url>
+  </link>
+  <link>
+    <title>Dhaka</title>
+    <url>http://localhost/news_project/category.php?category_id=8</url>
+  </link>
+  <link>
+    <title>Comilla</title>
+    <url>http://localhost/news_project/category.php?category_id=9</url>
+  </link>
+  <link>
+    <title>Economy</title>
+    <url>http://localhost/news_project/category.php?category_id=10</url>
+  </link>
+</pages>

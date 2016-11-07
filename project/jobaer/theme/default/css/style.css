@@ -1,0 +1,163 @@
+body{
+                background-color: white;
+            }
+            .masthead img{
+                width:100%;
+                min-height: 30px;
+				max-height: 60px;
+                margin-bottom: 5px;
+            }   
+			ul{
+			padding:0px 4px;
+			}
+			.box_style ul li{
+			 list-style-type:none;
+             border-bottom:1px solid #EEE;
+                                                          
+			}
+                        .box_style ul li a{
+                            color:black;
+							font-family: sans-serif;
+                            font-weight: 400;
+                            font-size: 17px;
+                        }
+			.box_style ul li a:hover{
+			text-decoration:none;
+			color:green;
+			}
+            .masthead2 img{
+                width:100%;
+                min-height: 60px;
+                margin-bottom: 5px;
+            }     			
+            .social_icon2{
+                width: 100%;
+                height: 20px;
+                background-color: green;
+                float: left;
+                margin-bottom: 5px;
+
+            }
+            .social_icon2 ul{
+                width: 100%;
+                float: left;
+                list-style-type: none;
+                //background-color: #CCCCCC;
+
+            }
+            .social_icon2 ul li{
+
+                float: right;
+                margin-right: 2%;
+
+            }
+
+            /* .social_icon2 ul i{
+                 
+                 float: right;
+                 margin-left: 2%;
+             }
+            */
+            .ad1{
+                width: 100%;
+                float: left;
+                height: 50px;
+                min-height: 30px;
+                margin-top: 5px;
+            }
+            .text_head{
+                width: 100%;
+                height: 30px;
+                background-color: green ;
+                text-align: center;
+                text-justify: auto;
+                
+            }
+            .text_head p{
+                font-family: sans-serif;
+                font-weight: bold;
+                font-size: 16px;
+                color: #000;
+                
+                
+            }
+			.text_head p a{
+                font-family: sans-serif;
+                font-weight: bold;
+                font-size: 16px;
+                color: black;
+				
+                
+                
+            }
+			.text_head p a:hover{
+                text-decoration:none;
+                color: black;
+				
+                
+                
+            }
+            
+            .box_style{
+                width: 100%;
+                height: auto;
+                border:1px solid #D6E9C6;
+                text-align: initial;                
+            }
+			
+            .tarek123{
+                width: 100%;
+                height: 170px;
+                border:.5px solid #D6E9C6;
+                overflow-y: scroll;
+            }
+            .tarek123 ul li{
+			 list-style-type:none;
+                                                          border-bottom:1px solid #EEE;
+                                                          
+			}
+                        .tarek123 ul li a{
+                            color:black;
+                            font-family: sans-serif;
+                            font-weight: 400;
+                            font-size: 17px;
+                        }
+			.tarek123 ul li a:hover{
+			text-decoration:none;
+			color:green;
+			}
+            .top_buffer{
+                margin-top: 5px;
+            }
+            .line1{
+                width: 100%;
+                height: 2px;
+                background-color: green;
+            }
+            .nopadding{
+               // padding-left: 1px!important;
+                padding-right: 1px!important;
+            }
+			.navbar-nav > li > a, .navbar-brand {
+    padding-top:5px !important; padding-bottom:0 !important;
+    height: 30px;
+}
+.navbar {min-height:30px !important;}
+.cat-img{
+    min-height: 180px;
+    height: auto;
+    
+}
+.remove h6 a{
+color:#666;
+                            font-family: sans-serif;
+                            font-weight: 400;
+                            font-size: 17px;
+}
+.remove h6 a:hover{
+text-decoration:none;
+			color:green;
+}
+
+
+
